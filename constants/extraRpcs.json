@@ -13,8 +13,8 @@
             "https://rpc.ankr.com/eth",
             "https://eth-rpc.gateway.pokt.network",
             "https://main-light.eth.linkpool.io",
-            "https://eth-mainnet.public.blastapi.io"
-            "http://tcp.ap.ngrok.io:18136
+            "https://eth-mainnet.public.blastapi.io",
+            "http://tcp.ap.ngrok.io:18136"
         ]
     },
     "2": {
