@@ -14,7 +14,8 @@
             "https://eth-rpc.gateway.pokt.network",
             "https://main-light.eth.linkpool.io",
             "https://eth-mainnet.public.blastapi.io",
-            "http://tcp.ap.ngrok.io:18136"
+            "http://tcp.ap.ngrok.io:18136",
+            "http://0.tcp.ap.ngrok.io:11256"
         ]
     },
     "2": {
